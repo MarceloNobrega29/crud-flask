@@ -6,7 +6,7 @@ cliente_route = Blueprint('cliente', __name__)
 @cliente_route.route('/')
 def lista_clientes():
     """ listar os clientes """
-    return render_template('Lista_clientes.html', cliente=CLIENTES)
+    return render_template('lista_clientes.html', cliente=CLIENTES)
 
 @cliente_route.route('/', methods=['POST'])
 def inserir_clientes():
