@@ -1,8 +1,8 @@
 CLIENTES = [
-    {"id": 1, "nome": "Marcelo", "email": "marcelo@teste.com"},
-    {"id": 2, "nome": "Pedro", "email": "pedro@teste.com"},
-    {"id": 3, "nome": "Cauâ", "email": "caua@teste.com"},
-    {"id": 4, "nome": "Gabriel", "email": "gabriel@teste.com"},
-    {"id": 5, "nome": "João", "email": "joao@teste.com"},
-    {"id": 6, "nome": "Ulisses", "email": "ulisses@teste.com"},
+    {"id":1, "nome": "Gabriel", "email": "teste@teste.com"},
+    {"id":2, "nome": "João", "email": "dsadsa@teste.com"},
+    {"id":3, "nome": "Marcelo", "email": "zzzzz@teste.com"},
+    {"id":4, "nome": "Pedro", "email": "dddd@teste.com"},
+    {"id":5, "nome": "Ulisses", "email": "ssss@teste.com"},
+    {"id":6, "nome": "Cauã", "email": "uyyy@teste.com"},
 ]
